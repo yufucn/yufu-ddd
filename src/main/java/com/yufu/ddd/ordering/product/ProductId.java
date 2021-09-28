@@ -1,10 +1,10 @@
-package com.yufu.ddd.ordering.aggregate;
+package com.yufu.ddd.ordering.product;
 
 /**
  * @author wang
- * @date 2021/9/21 22:35
+ * @date 2021/9/21 22:51
  */
-public class OrderId {
+public class ProductId {
     private String id;
 
     public String getId() {

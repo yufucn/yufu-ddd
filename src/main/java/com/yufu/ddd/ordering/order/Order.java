@@ -1,6 +1,8 @@
-package com.yufu.ddd.ordering.aggregate;
+package com.yufu.ddd.ordering.order;
 
 import com.yufu.ddd.mdm.value.MoneyValue;
+import com.yufu.ddd.ordering.AggregateRoot;
+import com.yufu.ddd.ordering.buyer.BuyerId;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

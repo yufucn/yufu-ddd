@@ -1,6 +1,7 @@
-package com.yufu.ddd.ordering.aggregate;
+package com.yufu.ddd.ordering.buyer;
 
 import com.yufu.ddd.mdm.value.FullNameValue;
+import com.yufu.ddd.ordering.AggregateRoot;
 
 /**
  * @author wang

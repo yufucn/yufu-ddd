@@ -1,4 +1,4 @@
-package com.yufu.ddd.ordering.aggregate;
+package com.yufu.ddd.ordering;
 
 /**
  * @author wang
